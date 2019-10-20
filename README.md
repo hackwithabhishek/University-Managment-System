@@ -36,10 +36,12 @@ This is University Management System(UMS) using C++   which manage the faculty a
 ![image](https://user-images.githubusercontent.com/50981076/67157182-591f6200-f346-11e9-9fba-0b23d5d00894.png)
 
 # create task
- first you have to write task name  and then content of the task so the new task file is created.one more thing you can create multiple task in one times 
+ first you have to write task name  and then content of the task so the new task file is created.one more thing you can create multiple task in one times
+ 
+![image](https://user-images.githubusercontent.com/50981076/67157218-e2cf2f80-f346-11e9-8f5d-4e7a06ba3485.png)
 
 ![image](https://user-images.githubusercontent.com/50981076/67157228-fb3f4a00-f346-11e9-9041-102014a52538.png)
-![image](https://user-images.githubusercontent.com/50981076/67157218-e2cf2f80-f346-11e9-8f5d-4e7a06ba3485.png)
+
 
 # Assign task
 After creating the task you can assign task to anyone of your class and also assign task to the particular student.
@@ -55,8 +57,14 @@ Press 4 To Create New Task
 ![image](https://user-images.githubusercontent.com/50981076/67157205-a1d71b00-f346-11e9-9425-210194ef6ede.png)
 
 # update task
+
 you can update any of your task 
 
+![image](https://user-images.githubusercontent.com/50981076/67157429-9b966e00-f349-11e9-9a90-1c08752d52fd.png)
+
 # delete task
+
 you can delete your task
 
+
+![image](https://user-images.githubusercontent.com/50981076/67157431-b10b9800-f349-11e9-90f4-f4c2a1aa512f.png)
